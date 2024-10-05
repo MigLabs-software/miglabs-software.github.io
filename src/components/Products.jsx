@@ -3,21 +3,21 @@ import ProductCard from './ProductCard';
 export default function Products() {
   const products = [
     {
-      title: 'Product A',
-      description: 'A powerful tool for managing your workflow efficiently.',
+      title: 'M808950 MicroAnormalizer',
+      description: 'A powerful Anormal Processing Unit for uncoming AI-based tasks',
       image: '/assets/product-a.png',
       link: '#',
     },
     {
       title: 'Product B',
       description: 'An innovative software solution to streamline your processes.',
-      image: '/assets/product-b.png',
+      image: '#',
       link: '#',
     },
     {
       title: 'Product C',
       description: 'A feature-rich app that enhances productivity.',
-      image: '/assets/product-c.png',
+      image: '#',
       link: '#',
     },
   ];

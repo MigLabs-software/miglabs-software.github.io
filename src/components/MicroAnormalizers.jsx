@@ -35,7 +35,7 @@ const MicroAnormalizers = () => {
           className="lg:w-1/2 mt-12 lg:mt-0"
         >
           <img
-            src="/assets/microanormalizer-hero.png"
+            src="/assets/m808950.webp"
             alt="MicroAnormalizers"
             className="rounded-lg shadow-lg"
           />

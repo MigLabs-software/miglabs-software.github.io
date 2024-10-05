@@ -1,6 +1,5 @@
 export default function Services() {
     const services = [
-      { title: 'Web Development', description: 'We build responsive, scalable web solutions.' },
       { title: 'Software Consulting', description: 'Expert advice for your business needs.' },
       { title: 'Custom Software', description: 'Tailored software to meet your specifications.' },
     ];

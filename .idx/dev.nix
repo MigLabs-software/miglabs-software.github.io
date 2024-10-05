@@ -12,7 +12,8 @@
     pkgs.nodejs_20
     pkgs.bun
     pkgs.yarn
-    # pkgs.nodePackages.nodemon
+    pkgs.docker
+    pkgs.nodePackages.nodemon
   ];
 
   # Sets environment variables in the workspace
@@ -21,6 +22,20 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "adamraichu.docx-viewer"
+      "astro-build.astro-vscode"
+      "astro-build.houston"
+      "CloudStudio.browser-preview-lite"
+      "CloudStudio.browser-preview-lite-club"
+      "CloudStudio.common"
+      "byCedric.vscode-expo"
+      "expo.vscode-expo-tools"
+      "ms-vscode.js-debug"
+      "ritwickdey.LiveServer"
+      "vanyauhalin.global-markdown-styles"
+      "zaaack.markdown-editor"
+      "znck.preview"
+      "znck.vue"
     ];
 
     # Enable previews
