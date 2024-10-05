@@ -11,6 +11,7 @@
     # pkgs.python311Packages.pip
     pkgs.nodejs_20
     pkgs.bun
+    pkgs.yarn
     # pkgs.nodePackages.nodemon
   ];
 
